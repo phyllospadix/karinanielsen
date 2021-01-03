@@ -89,18 +89,18 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "knielsen@sfsu.edu"
-phone = ""
+phone = "415.944.9561"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3150 Paradise Dr.", city = "Tiburon", region = "CA", postcode = "94920", country = "United States", country_code = "US"}
+address = {street = "SF State - Romberg Tiburon Campus, 3150 Paradise Dr.", city = "Tiburon", region = "CA", postcode = "94920", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "37.889289263965374", longitude = "-122.44730616218979"} 
 
 # Directions for visitors to locate you.
-directions = "Delta Hall"
+directions = "Delta Hall -> near the solar parking structure"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
