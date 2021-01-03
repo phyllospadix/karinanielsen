@@ -1,0 +1,21 @@
+---
+title: greetings
+author: ~
+date: '2021-01-02'
+slug: greetings
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-02T18:56:28-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+checking out how images work 
+
+![my-first-image](eelgrass.jpg)
