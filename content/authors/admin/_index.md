@@ -1,49 +1,45 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I do research on coastal ecosystems with a focus on rocky shores, sandy beaches and estuaries.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in ZOology
+    institution: Oregon State University
+    year: 1998
+  - course: BS in Biology
+    institution: Brooklyn College - City University of New York
+    year: 1992
+email: "knielsen@sfsu.edu"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Climate change
+- Biodiversity
+- Policy
+- Environmental justice
+- Data visualization
+- Science engagement
+- Inclusive pedagogy
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Estuary & Ocean Science Center, San Francisco State University
+  url: https://eoscenter.sfsu.edu/
+role: Executive Director and Professor of Biology
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/karinajnielsen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=i3eTJcUAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/karina-j-nielsen/
 superuser: true
-title: Nelson Bighetti
+title: Karina Johanne Nielsen
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Karina J. Nielsen a professor of biology and executive director of the Estuary & Ocean Science Center, San Francisco State University. Her research focuses on the ecology of rocky shores, sandy beaches, surf zones, and estuaries. She studies the diversity and abundance of life they support, their ecological functioning, and their persistence and resilience in the face of a changing climate and ocean conditions. Her university teaching includes courses in marine biology and ecology, invertebrates, marine plants and algae, biological oceanography, data visualization and analysis, and science communication. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
