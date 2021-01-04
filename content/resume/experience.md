@@ -24,7 +24,7 @@ date_format= "January 2006"
   location= "Tiburon, California"
   date_start= "2014-08-25"
   date_end: ""
-  description=""""
+  description="""
         Responsibilities include:
         
         * Academic Leadership
@@ -38,7 +38,7 @@ date_format= "January 2006"
         * Campus Stewardship
           * co-leading master plan for the Romberg Tiburon Campus
           * PI for *Nature-based rocky habitat restoration and education* Coastal Conservancy grant
-          ""
+          """
  [[experience]]       
   title= "Professor of Biology"
   company= "Department of Biology, Sonoma State University"
