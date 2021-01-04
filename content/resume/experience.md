@@ -1,9 +1,9 @@
 +++
 # Experience widget.
-widget = "experience"# Do not modify this line!
+widget = "experience" # Do not modify this line!
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
+weight = 20 # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
