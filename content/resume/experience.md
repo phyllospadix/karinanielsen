@@ -72,7 +72,7 @@ date_format= "January 2006"
   company= "Ocean Protection Council Science Advisory Team"
   company_url= "https://www.opc.ca.gov/science-advisory-team/"
   location= "Sacramento, California"
-  date_start= ""2008"
+  date_start= "2008"
   date_end= ""
   description= "Scientific analysis and advice to the California Ocean Protection Council" 
 
