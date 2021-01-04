@@ -22,9 +22,9 @@ date_format= "January 2006"
   company= "Estuary & Ocean Science Center, San Francisco State University"
   company_url= "https:\\eoscenter.sfsu.edu"
   location= "Tiburon, California"
-  date_start= '2014-08-25'
+  date_start= "2014-08-25"
   date_end: ""
-  description="""
+  description=""""
         Responsibilities include:
         
         * Academic Leadership
