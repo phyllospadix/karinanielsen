@@ -12,6 +12,11 @@
   name = "About"
   url = "#about"
   weight = 10
+  
+ [[main]]
+  name = "Resume"
+  url = "resume/experience"
+  weight = 15
 
 [[main]]
   name = "Projects"
