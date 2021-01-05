@@ -15,7 +15,7 @@
   
 [[main]]
   name = "Resume"
-  url = "#resume/"
+  url = "resume/"
   weight = 25
 
 #[[main]]
