@@ -43,14 +43,13 @@ experience:
           * co-leading master plan for the Romberg Tiburon Campus
           * PI for *Nature-based rocky habitat restoration and education* Coastal Conservancy grant
           
-        
-  - title: 'Professor of Biology'
-  company: 'Department of Biology, Sonoma State University'
-  company_url: 'https://sonoma.edu'
-  location: 'Rohnert Park, California'
-  date_start: '2003'
-  date_end: '2014-08-24'
-  description: >-
+ - title: 'Professor of Biology'
+   company: 'Department of Biology, Sonoma State University'
+   company_url: 'https://sonoma.edu'
+   location: 'Rohnert Park, California'
+   date_start: '2003'
+   date_end: '2014-08-24'
+   description: >-
         Responsibilities included:
           
           * Teaching
@@ -62,35 +61,35 @@ experience:
             * Scaling up from community to meta-ecosystem dynamics in the rocky intertidal  
             * Collecting sea palms: planning for sustainable use in a variable environment
 
--title: "Board Trustee"
-  company: "California Ocean Science Trust"
-  company_url: "https://www.oceansciencetrust.org"
-  location: "Sacramento, California"
-  date_start: "2020"
-  date_end: ""
-  description: "Helping accelerate progress for a healthy coast and ocean"
+ -title: "Board Trustee"
+   company: "California Ocean Science Trust"
+   company_url: "https://www.oceansciencetrust.org"
+   location: "Sacramento, California"
+   date_start: "2020"
+   date_end: ""
+   description: "Helping accelerate progress for a healthy coast and ocean"
 
--title: "Advisor"
-  company: "Ocean Protection Council Science Advisory Team"
-  company_url: "https://www.opc.ca.gov/science-advisory-team/"
-  location: "Sacramento, California"
-  date_start: "2008"
-  date_end: ""
-  description: "Scientific analysis and advice to the California Ocean Protection Council" 
+ -title: "Advisor"
+   company: "Ocean Protection Council Science Advisory Team"
+   company_url: "https://www.opc.ca.gov/science-advisory-team/"
+   location: "Sacramento, California"
+   date_start: "2008"
+   date_end: ""
+   description: "Scientific analysis and advice to the California Ocean Protection Council" 
 
--title: "Board Member"
-  company: "San Francisco Bay National Estuarine Research Reserve"
-  company_url: "https://www.nerra.org/project/san-francisco-bay-national-estuarine-research-reserve/"
-  location: "Tiburon, California"
-  date_start: "2014"
-  date_end: ""
-  description: "Improving understanding and stewardship of the San Francisco Estuary"
+ -title: "Board Member"
+   company: "San Francisco Bay National Estuarine Research Reserve"
+   company_url: "https://www.nerra.org/project/san-francisco-bay-national-estuarine-research-reserve/"
+   location: "Tiburon, California"
+   date_start: "2014"
+   date_end: ""
+   description: "Improving understanding and stewardship of the San Francisco Estuary"
   
--title: "Advisor, Science Advisory Committee"
-  company: "Point Blue Conservation Science"
-  company_url: "https://www.pointblue.org/"
-  location: "Petaluma, California"
-  date_start: "2019"
-  date_end: ""
-  description:  "Providing vision and advice on scientific matters to maximize the quality of science conducted by Point Blue and to help achieve collaborative strategic priorities"
+ -title: "Advisor, Science Advisory Committee"
+   company: "Point Blue Conservation Science"
+   company_url: "https://www.pointblue.org/"
+   location: "Petaluma, California"
+   date_start: "2019"
+   date_end: ""
+   description:  "Providing vision and advice on scientific matters to maximize the quality of science conducted by Point Blue and to help achieve collaborative strategic priorities"
 ---
