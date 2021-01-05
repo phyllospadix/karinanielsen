@@ -46,6 +46,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
-  name = "CV (short)"
+  name = "CV"
   url = "media/CV_Nielsen_KJ_Jan2021.pdf"
   weight = 40
