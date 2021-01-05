@@ -28,20 +28,15 @@ experience:
     location: ''
     date_start: '2014'
     date_end: ''
-    description: >-
-       Responsibilities include:
-        
-        * Academic Leadership
-        * Science Engagement
-        * Campus Stewardship
-        
+    description: 'bla'
+    
  - title: 'Professor of Biology'
    company: 'Department of Biology, Sonoma State University'
    company_url: 'https://sonoma.edu'
    location: 'Rohnert Park, California'
    date_start: '2003'
    date_end: '2014-08-24'
-   description: ''
+   description: 'bla'
         
  -title: "Board Trustee"
    company: "California Ocean Science Trust"
