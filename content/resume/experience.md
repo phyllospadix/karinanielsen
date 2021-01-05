@@ -32,35 +32,17 @@ experience:
        Responsibilities include:
         
         * Academic Leadership
-          * Multi-disciplinary research center and marine laboratory facilities
-          * PI for *RIPTIDES* NSF Research Traineeship program
-            * New Interdisciplinary Marine & Estuarine Sciences MS program
-          * PI for Central & Northern California Ocean Observing System: SF Bay coastal stations
         * Science Engagement
-          * Rosenberg Institute of Marine Biology & Environmental Sciences
-          * International Ocean Film Festival Screenings, Marine LiteraSea Book Club, Bay Shore Studies, Meet the Scientist
         * Campus Stewardship
-          * co-leading master plan for the Romberg Tiburon Campus
-          * PI for *Nature-based rocky habitat restoration and education* Coastal Conservancy grant
-
+        
  - title: 'Professor of Biology'
    company: 'Department of Biology, Sonoma State University'
    company_url: 'https://sonoma.edu'
    location: 'Rohnert Park, California'
    date_start: '2003'
    date_end: '2014-08-24'
-   description: >-
-        Responsibilities included:
-          
-          * Teaching
-            * courses in biology, marine ecology, biological oceanography, invertebrate biology, marine botany, and advanced data analysis
-          * Research Projects (representative)
-            * Baseline Monitoring of Ecosystem and Socioeconomic Indicators for MPAs along the North Central Coast of California: Sandy Beaches
-            * Long-term monitoring of environmental conditions in support of protected marine area management in central and northern California
-            * Molecular identity of Gonyaulacoid dinoflagellates associated with mortalities of abalone, urchins and other marine invertebrates in California 
-            * Scaling up from community to meta-ecosystem dynamics in the rocky intertidal  
-            * Collecting sea palms: planning for sustainable use in a variable environment
-
+   description: ''
+        
  -title: "Board Trustee"
    company: "California Ocean Science Trust"
    company_url: "https://www.oceansciencetrust.org"
