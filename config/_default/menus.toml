@@ -13,10 +13,10 @@
   url = "#about"
   weight = 10
   
- #[[main]]
-#  name = "Resume"
-#  url = "#resume"
-#  weight = 25
+[[main]]
+  name = "Resume"
+  url = "#resume/"
+  weight = 25
 
 #[[main]]
 #  name = "Projects"
