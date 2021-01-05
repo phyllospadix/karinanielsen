@@ -42,7 +42,7 @@ experience:
         * Campus Stewardship
           * co-leading master plan for the Romberg Tiburon Campus
           * PI for *Nature-based rocky habitat restoration and education* Coastal Conservancy grant
-          
+
  - title: 'Professor of Biology'
    company: 'Department of Biology, Sonoma State University'
    company_url: 'https://sonoma.edu'
