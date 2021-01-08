@@ -11,7 +11,7 @@ headless: true
 weight: 20
 
 title: Experience
-subtitle: recent compensated positions
+subtitle: compensated positions (recent)
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
