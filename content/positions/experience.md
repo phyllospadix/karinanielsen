@@ -29,12 +29,17 @@ experience:
     location: 
     date_start: 2014-08-25
     date_end: 
-    description: bla
+    description: |2-
+        - Academic Leadership
+        - Science Engagement
+        - Campus Stewardship
   - title: Professor of Biology
     company: Department of Biology, Sonoma State University
     company_url: https://sonoma.edu
     location: Rohnert Park, California
     date_start: 2003-08-20
     date_end: 2014-08-24
-    description: bla
+    description: |2-
+        - Taught courses in biology, marine ecology, biological oceanography, invertebrate biology, marine botany, and advanced data analysis
+        - Conducted research on marine protected areas, coastal oceanography, community ecology, ocean climate change, wild seaweed harvesting
 ---
