@@ -9,14 +9,24 @@
 #  weight = 10
 
 [[main]]
+  name = "Positions"  # Title of the link.
+  url = "positions/"  # Widget Page folder name.
+  weight = 25  # Position of the link in the navigation bar.
+  
+[[main]]
+  name = "Service"  # Title of the link.
+  url = "service/"  # Widget Page folder name.
+  weight = 26  # Position of the link in the navigation bar.
+
+[[main]]
   name = "About"
   url = "#about"
   weight = 10
   
-[[main]]
-  name = "Resume"
-  url = "resume/"
-  weight = 25
+#[[main]]
+#  name = "not"
+#  url = "exac/"
+#  weight = 25
 
 #[[main]]
 #  name = "Projects"

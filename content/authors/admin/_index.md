@@ -1,5 +1,7 @@
 ---
-bio: Marine ecologist with a passion for coastal ecosystems. My research projects focus on the ecology, biodiversity, oceanography, and biogeochemistry of rocky shores and beaches from the wave-swept outer coast to estuaries. Themes include the impacts of climate change, including ocean/coastal acidification, global warming, and sea level rise; conservation; policy; climate adaptation. 
+bio: 
+# Marine ecologist with a passion for coastal ecosystems. My research projects focus on the ecology, biodiversity, oceanography, and biogeochemistry of rocky shores and beaches from the wave-swept outer coast to estuaries. Themes include the impacts of climate change, including ocean/coastal acidification, global warming, and sea level rise; conservation; policy; climate adaptation. 
+# dflkh
 education:
   courses:
   - course: PhD in Zoology
