@@ -11,11 +11,13 @@ headless: true
 weight: 20
 
 title: Experience
-subtitle: service
+subtitle: current service positions
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
+
+bio:
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
