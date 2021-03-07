@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Ocean2"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = " #025aa0"
+
+# Menu
+menu_primary = " #025aa0" # Material 500
+menu_text = "#fff"
+menu_text_active = "#5aa002" # Material Complemantary 500
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(223, 234, 243)"
+home_section_even = "rgb(192, 214, 231)"
