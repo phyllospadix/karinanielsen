@@ -26,20 +26,38 @@ experience:
   - title: Executive Director and Professor of Biology
     company: Estuary & Ocean Science Center, San Francisco State University
     company_url: eoscenter.sfsu.edu
-    location: 
+    location: Tiburon, CA, USA
     date_start: 2014-08-25
     date_end: 
     description: |2-
-        - Academic Leadership
+        - Academic Leadership 
         - Science Engagement
         - Campus Stewardship
   - title: Professor of Biology
     company: Department of Biology, Sonoma State University
     company_url: https://sonoma.edu
-    location: Rohnert Park, California
+    location: Rohnert Park, CA, USA
     date_start: 2003-08-20
     date_end: 2014-08-24
     description: |2-
-        - Taught courses in biology, marine ecology, biological oceanography, invertebrate biology, marine botany, and advanced data analysis
-        - Conducted research on marine protected areas, coastal oceanography, community ecology, ocean climate change, wild seaweed harvesting
+        - Teaching: marine ecology, biological oceanography, invertebrate biology, introductory biology, marine botany, and advanced data analysis
+        - Research: community ecology, coastal oceanography, ocean climate change, conservation
+        - Public Service: science advisor to the California Marine Life Protection Act Initiative and the Ocean Protection Council
+  - title: NSF International Postdoctoral Research Fellow 
+    company: Estacíon Costera de Investigaciones Marinas, Universidad Católica de Chile
+    company_url: http://ecim.bio.puc.cl/es/
+    location: Las Cruces, Comuna El Tabo, V Región, Chile
+    date_start: 1998-09-01
+    date_end: 2000-03-01
+    description: |2-
+        -  Research: community ecology, coastal oceanography, ocean climate change, conservation
+  - title: Partnership for Interdisciplinary Studies of Coastal Oceans Postdoctoral Research Associate 
+    company: Department of Zoology (now Integrative Biology), Oregon State University
+    company_url: https://ib.oregonstate.edu/
+    location: Corvallis, OR, USA
+    date_start: 1998-09-01
+    date_end: 2000-03-01
+    description: |2-
+        -  Research: community ecology, coastal oceanography, ocean climate change, conservation
+        
 ---
