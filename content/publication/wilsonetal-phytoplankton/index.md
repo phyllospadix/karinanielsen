@@ -21,8 +21,7 @@ publication_types:
 - "2"
 publishDate: "2020-06-22T00:00:00Z"
 #slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study characterizes the spatio-temporal phytoplankton community dynamics in a low-inflow estuary located along the northern California coast with high frequency sampling to assess seasonal influences on functional groups, blooms, and endemic populations.
 tags:
 - estuary
 - phytoplankton community
