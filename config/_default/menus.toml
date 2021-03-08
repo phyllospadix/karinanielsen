@@ -19,12 +19,12 @@
   weight = 26  # Position of the link in the navigation bar.
 
 [[main]]
-  name = "About"
-  url = "#about"
+  name = "Journey"
+  url = "content/journey/"
   weight = 10
   
 [[main]]
-  name = "Publications"
+ name = "Publications"
   url = "#publications"
   weight = 20
   
