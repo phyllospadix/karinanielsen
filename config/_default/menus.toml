@@ -18,10 +18,10 @@
   url = "service/"  # Widget Page folder name.
   weight = 26  # Position of the link in the navigation bar.
 
-[[main]]
-  name = "Journey"
-  url = "content/journey/"
-  weight = 10
+#[[main]]
+#  name = "Journey"
+#  url = 
+#  weight = 10
   
 [[main]]
  name = "Publications"
