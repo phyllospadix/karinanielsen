@@ -50,7 +50,7 @@ I took a giant leap of faith, moved my family across the country, and started my
 
 I did finally get some love from NSF as a postdoc. I was awarded an international postdoctoral fellowship to do research in Chile. I was fortunate to have a supportive and adventurous family who let me move us all to Chile for two years. It turned out to be the exact same two years when the former Chilean dictator, Augosto Pinochet, was detained in England as Spain attempoted to extradite him to face charges of human rights violations. My son ended up attended a small public school on the coast, and learned how to bodyboard with the local kids. He also learned to speak Spanish including all the best Chilean slang and curse words. It was an extraordinary adventure and learning experience for us all.
 
-![View from Isla Negra](campanas-isla-negra.jpg)
+![View from Isla Negra](Chile-Isla-Negra.jpg)
  <font size="1">*Source: https://fundacionneruda.org/en/museums-houses/isla-negra-museum-house/*</font>
 
 My teenage self could never have imagined I would end up as a university professor and a scientist. And no one would plan to take a pathway like mine to end up where I am today. However, I can honestly say that every twist and turn has enriched my life and understanding in an important way. 
