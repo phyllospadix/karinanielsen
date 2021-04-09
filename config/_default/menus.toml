@@ -23,10 +23,10 @@
 #  url = 
 #  weight = 10
   
-[[main]]
- name = "Publications"
-  url = "#publications"
-  weight = 20
+#[[main]]
+# name = "Publications"
+#  url = "#publications"
+#  weight = 20
   
 #[[main]]
 #  name = "not"
@@ -57,5 +57,5 @@
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "media/CV_Nielsen_KJ_Jan2021.pdf"
+  url = "media/CV_Nielsen_KJ_April2021.pdf"
   weight = 40
