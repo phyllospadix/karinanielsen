@@ -37,6 +37,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/karina-j-nielsen/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/phyllospadix
 superuser: true
 title: Karina Johanne Nielsen, PhD
 ---
