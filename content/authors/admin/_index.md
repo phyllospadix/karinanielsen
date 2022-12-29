@@ -1,4 +1,5 @@
 ---
+date: 2022-12-29
 bio: 
 # Marine ecologist with a passion for coastal ecosystems. My research projects have focused on the ecology, biodiversity, oceanography, and biogeochemistry of rocky shores and beaches from the wave-swept outer coast to brackish estuaries. Key themes of interest are climate change, including ocean/coastal acidification, hypoxia, global/ocean warming, and sea level rise; coastal conservation and stewardship; biodiversity; envirnmental justice; climate adaptation; environmentenvironmental policy; diversity, equity, inclusion, justice, and access; data visualization; science engagement; inclusive pedagogy; STEAM education. 
 education:
