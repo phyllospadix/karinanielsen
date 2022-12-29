@@ -23,12 +23,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if its your current employer.
 #   Begin multi-line descriptions with YAMLs `|2-` multi-line prefix.
 experience:
+ - title: Director Oregon Sea Grant
+    company: Oregon State University
+    company_url: seagrant.oregonstate.edu
+    location: Corvallis and Newport, OR USA
+    date_start: 2022-06-22
+    date_end: 
+    description: |2-
+        - Science Engagement & Extension
+        - Research Development
+        - Science Training & Fellowships 
   - title: Executive Director and Professor of Biology
     company: Estuary & Ocean Science Center, San Francisco State University
     company_url: eoscenter.sfsu.edu
     location: Tiburon, CA, USA
     date_start: 2014-08-25
-    date_end: 
+    date_end: 2022-05-31
     description: |2-
         - Academic Leadership 
         - Science Engagement
