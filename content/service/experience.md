@@ -98,8 +98,22 @@ experience:
   - title: President
     company: Western Association of Marine Laboratories
     company_url: http://waml.naml.org/
-    location: Long Beach, California
+    location: Tiburon, California
     date_start: 2020-01-01
     date_end: 2021-12-31
     description:  Stimulating research and promoting education in the marine sciences
+  - title: Treasurer
+    company: National Association of Marine Laboratories
+    company_url: http://naml.org/
+    location: Tiburon, California
+    date_start: 2020-01-01
+    date_end: 2021-12-31
+    description:  Stimulating research and promoting education in the marine sciences
+  - title: Advisor
+    company: Science Advisory Team, California Marine Life Protection Act Initiative (North-Central & Northern California) 
+    company_url: https://wildlife.ca.gov/Conservation/Marine/MPAs
+    location: Sacramento, California
+    date_start: 2007-01-01
+    date_end: 2010-12-31
+    description:  Science guidance and analysis and public engagement in support of establishing CA's MPA network
 ---
