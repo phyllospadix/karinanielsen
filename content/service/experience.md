@@ -52,7 +52,7 @@ experience:
     location: Salem, Oregon
     date_start: 2022-06-01
     date_end: ""
-    description: Advises the Governor of Oregon on coastal and marine policy matters
+    description: Advising the Governor of Oregon on coastal and marine policy matters
   - title: Trustee
     company: California Ocean Science Trust
     company_url: https://www.oceansciencetrust.org
