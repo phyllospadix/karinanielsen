@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAMLs `|2-` multi-line prefix.
 experience:
  - title: Director Oregon Sea Grant
-    company:Oregon State University
-    company_url: seagrant.oregonstate.edu
+    company: Oregon State University
+    company_url: https://seagrant.oregonstate.edu
     location: Corvallis and Newport, OR USA
     date_start: 2022-06-22
     date_end: 
