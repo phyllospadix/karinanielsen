@@ -50,4 +50,4 @@ I am a marine ecologist with a life-long passion for ecosystems at the edge of t
 
 [*Publications*](https://scholar.google.com/citations?user=i3eTJcUAAAAJ&hl=en&authuser=1)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Nielsen_KJ_Jan2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Nielsen_KJ_Dec2022.pdf" "newtab" >}}CV{{< /staticref >}}.
