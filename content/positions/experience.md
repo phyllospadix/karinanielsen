@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if its your current employer.
 #   Begin multi-line descriptions with YAMLs `|2-` multi-line prefix.
 experience:
- - title: Director Oregon Sea Grant
+  - title: Director Oregon Sea Grant
     company: Oregon State University
     company_url: https://seagrant.oregonstate.edu
     location: Corvallis and Newport, OR USA
