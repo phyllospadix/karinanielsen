@@ -7,11 +7,14 @@ highlight_name: no
 interests:
 - Climate change
 - Biodiversity
-- Policy
+- Environmental policy
 - Environmental justice
 - Data visualization
-- Science engagement
+- Science engagement & extension
 - Inclusive pedagogy
+- Diversity, equity, inclusion, justice, and access
+- STEAM
+- Interdisciplinary, use-inspired, co-developed research
 organizations:
 - name: Oregon Sea Grant, Oregon State University
   url: https://seagrant.oregonstate.edu/

@@ -89,19 +89,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "knielsen@sfsu.edu"
-phone = "415.944.9561"
+email = "karina,nielsen@oregonstate.edu"
+phone = "541.224.7771"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "SF State - Romberg Tiburon Campus, 3150 Paradise Dr.", city = "Tiburon", region = "CA", postcode = "94920", country = "United States", country_code = "US"}
+address = {street = "Oregon Sea Grant (adminstrative office), 1600 SW Western Blvd.", city = "Corvallis", region = "OR", postcode = "97333", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.889289263965374", longitude = "-122.44730616218979"} 
+coordinates = {latitude = "44.55934239660397", longitude = "-123.27458018819169"} 
 
 # Directions for visitors to locate you.
-directions = "Delta Hall -> near the solar parking structure"
+directions = "On Tuesdays and Fridays I am usually working from our Newport, OR offices at the Hatfield Marine Science Center"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
