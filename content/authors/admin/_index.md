@@ -35,6 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/phyllospadix
+- icon: mastodon
+  icon_pack: fab
+  link: https://c.im/@KarinaNielsen
 superuser: yes
 education:
   courses:
