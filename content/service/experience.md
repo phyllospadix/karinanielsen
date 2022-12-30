@@ -32,6 +32,13 @@ experience:
     date_start: 2022-07-01
     date_end: ""
     description: Promoting innovative, collaborative, community-oriented, multi-institutional approaches to increasing knowledge and understanding of Oregon's ocean and coastal resources
+  - title: Member
+    company: Oregon Coordinating Council on Ocean Acidification and Hypoxia 
+    company_url: https://www.oregonocean.info/index.php/ocean-acidification
+    location: Salem, Oregon
+    date_start: 2022-06-01
+    date_end: ""
+    description: Bringing together unique experiences and expertise to facilitate collaboration, inclusion, and diversity to address ocean acidification & hypoxia
   - title: Chair
     company: Science & Technical Committee, Oregon Ocean Policy Advisory Council
     company_url: https://www.oregonocean.info/index.php/scientific-and-technical-advisory-committee
